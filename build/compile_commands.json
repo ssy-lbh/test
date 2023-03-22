@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/test/build",
+  "command": "C:/Users/ASUS/w64devkit-1.16.1/w64devkit/bin/g++.exe   -g -o CMakeFiles/test.dir/main.cpp.obj -c E:/test/main.cpp",
+  "file": "E:/test/main.cpp",
+  "output": "CMakeFiles/test.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/test/build",
+  "command": "C:/Users/ASUS/w64devkit-1.16.1/w64devkit/bin/g++.exe   -g -o CMakeFiles/test.dir/test.cpp.obj -c E:/test/test.cpp",
+  "file": "E:/test/test.cpp",
+  "output": "CMakeFiles/test.dir/test.cpp.obj"
+}
+]
